@@ -48,7 +48,7 @@
 
 ## Radio 电台
 
-- Netease cloud music radiolist 网易云音乐电台
+- Netease cloud music radio 网易云音乐电台
 	- [【三体】三部曲刘慈欣巨作 目前中国科幻巅峰 ](http://music.163.com/#/djradio?id=3244011)
 
 ## Spotify
