@@ -1,10 +1,10 @@
-
 # Table of Contents
 
 - [Netease cloud music playlists 网易云音乐歌单](#netease-cloud-music-playlists-网易云音乐歌单)
-- [Background music website](#background-music-website)
-- [Podcasting](#podcasting)
-- [Radio](#radio)
+- [Xiami music playlists 虾米音乐歌单](#xiami-music-playlists-虾米音乐歌单)
+- [Background music website 背景音乐网站](#background-music-website-背景音乐网站)
+- [Podcasting 播客](#podcasting-播客)
+- [Radio 电台](#radio-电台)
 - [Spotify](#spotify)
 
 ## Netease cloud music playlists 网易云音乐歌单
@@ -16,7 +16,12 @@
 - [魔兽世界 游戏原声 by 逆冷蝶](http://music.163.com/#/playlist?id=22868986)
 - [金玟岐作品集 by 金玟岐](http://music.163.com/#/album?id=2767540)
 - [ONE PUNCH MAN by 夔豆](http://music.163.com/#/playlist?id=157621355)
-## Background music website
+- [纯音集，书用 by 闻雨听风-](http://music.163.com/#/m/playlist?id=107312674)
+- [冷门而又好听的纯音乐 by 四维雨相丶](http://music.163.com/#/m/playlist?id=119093004)
+
+## Xiami music playlists 虾米音乐歌单
+
+## Background music website 背景音乐网站
 
 - Asoftmurmur : http://asoftmurmur.com
 - NatureSound : http://naturesound.org/ 
@@ -31,16 +36,20 @@
 - GET WORK DONE MUSIC : http://www.getworkdonemusic.com/ 
 - jamiroquai-radenko : https://soundcloud.com/radenko-zec/sets/jamiroquai-radenko 
 - MusicForConcentration : http://www.reddit.com/r/MusicForConcentration/
+- Noisli : http://www.noisli.com
 
-## Podcasting
+## Podcasting 播客
 
+- IPN 旗下播客，包括但不限于：
+	- [IT 公论](https://ipn.li/itgonglun/)
+	- [内核恐慌](https://ipn.li/kernelpanic/)
 - http://www.eslpod.com/website/index_new.html
 
-## Radio
+## Radio 电台
 ## Spotify
 # License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sharon Rosner](http://github.com/ciconia) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Yaoshicn](https://github.com/Yaoshicn) has waived all copyright and related or neighboring rights to this work.
 
