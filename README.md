@@ -53,6 +53,11 @@
 	- [【三体】三部曲刘慈欣巨作 目前中国科幻巅峰 ](http://music.163.com/#/djradio?id=3244011)
 
 ## Spotify
+
+- [Deep Focus](https://play.spotify.com/user/spotify/playlist/2ujjMpFriZ2nayLmrD1Jgl)
+- [Electronic Study Music](https://open.spotify.com/user/spotify/playlist/65y98W0UItf73DJKVgylTP)
+- [Music For Concentration](https://play.spotify.com/user/spotify_uk_/playlist/1iHelgbMaB7G1bjMbABPRe)
+
 # License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
