@@ -18,6 +18,7 @@
 - [ONE PUNCH MAN by 夔豆](http://music.163.com/#/playlist?id=157621355)
 - [纯音集，书用 by 闻雨听风-](http://music.163.com/#/m/playlist?id=107312674)
 - [冷门而又好听的纯音乐 by 四维雨相丶](http://music.163.com/#/m/playlist?id=119093004)
+- [我也来凑个代码歌单 by 用了我想用的名字的人全都司马](http://music.163.com/#/playlist?id=172006515)
 
 ## Xiami music playlists 虾米音乐歌单
 
@@ -46,6 +47,10 @@
 - http://www.eslpod.com/website/index_new.html
 
 ## Radio 电台
+
+- Netease cloud music radiolist 网易云音乐电台
+	- [【三体】三部曲刘慈欣巨作 目前中国科幻巅峰 ](http://music.163.com/#/djradio?id=3244011)
+
 ## Spotify
 # License
 
