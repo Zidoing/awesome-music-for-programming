@@ -19,6 +19,7 @@
 - [纯音集，书用 by 闻雨听风-](http://music.163.com/#/m/playlist?id=107312674)
 - [冷门而又好听的纯音乐 by 四维雨相丶](http://music.163.com/#/m/playlist?id=119093004)
 - [我也来凑个代码歌单 by 用了我想用的名字的人全都司马](http://music.163.com/#/playlist?id=172006515)
+- [BGM•学霸刷题专用 by 阿卡琳](http://music.163.com/#/playlist?id=91545874)
 
 ## Xiami music playlists 虾米音乐歌单
 
@@ -48,10 +49,15 @@
 
 ## Radio 电台
 
-- Netease cloud music radiolist 网易云音乐电台
+- Netease cloud music radio 网易云音乐电台
 	- [【三体】三部曲刘慈欣巨作 目前中国科幻巅峰 ](http://music.163.com/#/djradio?id=3244011)
 
 ## Spotify
+
+- [Deep Focus](https://play.spotify.com/user/spotify/playlist/2ujjMpFriZ2nayLmrD1Jgl)
+- [Electronic Study Music](https://open.spotify.com/user/spotify/playlist/65y98W0UItf73DJKVgylTP)
+- [Music For Concentration](https://play.spotify.com/user/spotify_uk_/playlist/1iHelgbMaB7G1bjMbABPRe)
+
 # License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
