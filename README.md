@@ -20,6 +20,8 @@
 - [冷门而又好听的纯音乐 by 四维雨相丶](http://music.163.com/#/m/playlist?id=119093004)
 - [我也来凑个代码歌单 by 用了我想用的名字的人全都司马](http://music.163.com/#/playlist?id=172006515)
 - [BGM•学霸刷题专用 by 阿卡琳](http://music.163.com/#/playlist?id=91545874)
+- [适合循环播放 百听不厌的英文歌 by 惹塵埃](http://music.163.com/#/playlist?id=3848468)
+- [千次评论只为这个旋律 by HenryCao](http://music.163.com/#/playlist?id=60498371)
 
 ## Xiami music playlists 虾米音乐歌单
 
@@ -51,6 +53,8 @@
 
 - Netease cloud music radio 网易云音乐电台
 	- [【三体】三部曲刘慈欣巨作 目前中国科幻巅峰 ](http://music.163.com/#/djradio?id=3244011)
+	- [ 张召忠说 ](http://music.163.com/#/djradio?id=5375024)
+	- [ EDM 吊炸天 ](http://music.163.com/#/djradio?id=5125016)
 
 ## Spotify
 
