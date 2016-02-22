@@ -48,6 +48,7 @@
 	- [IT 公论](https://ipn.li/itgonglun/)
 	- [内核恐慌](https://ipn.li/kernelpanic/)
 - http://www.eslpod.com/website/index_new.html
+- 大内密谈：http://www.lizhi.fm/14275/
 
 ## Radio 电台
 
