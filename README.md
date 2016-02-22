@@ -44,17 +44,19 @@
 
 ## Podcasting 播客
 
-- IPN 旗下播客，包括但不限于：
+- [IPN](https://ipn.li)
 	- [IT 公论](https://ipn.li/itgonglun/)
 	- [内核恐慌](https://ipn.li/kernelpanic/)
-- http://www.eslpod.com/website/index_new.html
+- [Lizhi FM](http://www.lizhi.fm)
+	- [大内密谈](http://www.lizhi.fm/14275/)
+- [ESLPod](http://www.eslpod.com/website/index_new.html)
 
 ## Radio 电台
 
 - Netease cloud music radio 网易云音乐电台
-	- [【三体】三部曲刘慈欣巨作 目前中国科幻巅峰 ](http://music.163.com/#/djradio?id=3244011)
-	- [ 张召忠说 ](http://music.163.com/#/djradio?id=5375024)
-	- [ EDM 吊炸天 ](http://music.163.com/#/djradio?id=5125016)
+	- [【三体】三部曲刘慈欣巨作 目前中国科幻巅峰](http://music.163.com/#/djradio?id=3244011)
+	- [张召忠说](http://music.163.com/#/djradio?id=5375024)
+	- [EDM 吊炸天](http://music.163.com/#/djradio?id=5125016)
 
 ## Spotify
 
