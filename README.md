@@ -44,11 +44,12 @@
 
 ## Podcasting 播客
 
-- IPN 旗下播客，包括但不限于：
+- [IPN](https://ipn.li)
 	- [IT 公论](https://ipn.li/itgonglun/)
 	- [内核恐慌](https://ipn.li/kernelpanic/)
-- http://www.eslpod.com/website/index_new.html
-- 大内密谈：http://www.lizhi.fm/14275/
+- [Lizhi FM](http://www.lizhi.fm)
+	- [大内密谈](http://www.lizhi.fm/14275/)
+- [ESLPod](http://www.eslpod.com/website/index_new.html)
 
 ## Radio 电台
 
