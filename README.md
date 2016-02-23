@@ -22,7 +22,7 @@
 - [BGM•学霸刷题专用 by 阿卡琳](http://music.163.com/#/playlist?id=91545874)
 - [适合循环播放 百听不厌的英文歌 by 惹塵埃](http://music.163.com/#/playlist?id=3848468)
 - [千次评论只为这个旋律 by HenryCao](http://music.163.com/#/playlist?id=60498371)
-- [精心收藏-600+纯音乐 持续更新](http://music.163.com/#/m/playlist?id=138337970)
+- [精选纯音乐●程序猿 by OMGWTFK](http://music.163.com/#/m/playlist?id=138337970)
 
 ## Xiami music playlists 虾米音乐歌单
 
@@ -71,3 +71,5 @@
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Yaoshicn](https://github.com/Yaoshicn) has waived all copyright and related or neighboring rights to this work.
+
+
