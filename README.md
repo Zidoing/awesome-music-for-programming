@@ -24,6 +24,7 @@
 - [千次评论只为这个旋律 by HenryCao](http://music.163.com/#/playlist?id=60498371)
 
 ## Xiami music playlists 虾米音乐歌单
+- [【精选】上耳机超带感！节奏控的那些抖腿燃曲 (╭￣3￣)╭♡](http://www.xiami.com/collect/102331350)
 
 ## Background music website 背景音乐网站
 
