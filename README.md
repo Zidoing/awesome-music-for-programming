@@ -23,6 +23,8 @@
 - [适合循环播放 百听不厌的英文歌 by 惹塵埃](http://music.163.com/#/playlist?id=3848468)
 - [千次评论只为这个旋律 by HenryCao](http://music.163.com/#/playlist?id=60498371)
 - [精选纯音乐●程序猿 by OMGWTFK](http://music.163.com/#/m/playlist?id=138337970)
+- [おくりびと入殓师插曲［纯音乐］ by 用了我想用的名字的人全都司马](http://music.163.com/#/playlist?id=306997643)
+- [蝎子乐队不插电现场［Acoustica］by 用了我想用的名字的人全都司马](http://music.163.com/#/playlist?id=76335055)
 
 ## Xiami music playlists 虾米音乐歌单
 - [【精选】上耳机超带感！节奏控的那些抖腿燃曲 (╭￣3￣)╭♡](http://www.xiami.com/collect/102331350)
@@ -58,8 +60,8 @@
 
 - Netease cloud music radio 网易云音乐电台
 	- [【三体】三部曲刘慈欣巨作 目前中国科幻巅峰](http://music.163.com/#/djradio?id=3244011)
-	- [张召忠说](http://music.163.com/#/djradio?id=5375024)
-	- [EDM 吊炸天](http://music.163.com/#/djradio?id=5125016)
+	- [ 张召忠说](http://music.163.com/#/djradio?id=5375024)
+	- [ EDM 吊炸天](http://music.163.com/#/djradio?id=5125016)
 
 ## Spotify
 
