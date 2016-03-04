@@ -1,8 +1,4 @@
-#Awesome Music for Programming
-<iframe src="https://ghbtns.com/github-btn.html?user=yaoshicn&repo=awesome-music-for-programming&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
-<iframe src="https://ghbtns.com/github-btn.html?user=yaoshicn&repo=awesome-music-for-programming&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
-<iframe src="https://ghbtns.com/github-btn.html?user=yaoshicn&repo=awesome-music-for-programming&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
-
+# Awesome Music for Programming
 ## Table of Contents
 
 - [Netease cloud music playlists 网易云音乐歌单](#netease-cloud-music-playlists-网易云音乐歌单)
