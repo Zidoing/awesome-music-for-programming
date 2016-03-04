@@ -1,4 +1,6 @@
-# Table of Contents
+#Awesome Music for Programming[![star this repo](http://githubbadges.com/star.svg?user=yaoshicn&repo=awesome-music-for-programming&style=flat)](https://github.com/yaoshicn/awesome-music-for-programming)[![fork this repo](http://githubbadges.com/fork.svg?user=yaoshicn&repo=awesome-music-for-programming&style=flat)](https://github.com/yaoshicn/awesome-music-for-programming/fork)
+
+## Table of Contents
 
 - [Netease cloud music playlists 网易云音乐歌单](#netease-cloud-music-playlists-网易云音乐歌单)
 - [Xiami music playlists 虾米音乐歌单](#xiami-music-playlists-虾米音乐歌单)
