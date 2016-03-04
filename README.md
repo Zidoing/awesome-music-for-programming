@@ -1,4 +1,7 @@
-#Awesome Music for Programming[![star this repo](http://githubbadges.com/star.svg?user=Yaoshicn&repo=awesome-music-for-programming&style=flat&color=fff&background=1081C1)](http://github.com/Yaoshicn/awesome-music-for-programming)[![fork this repo](http://githubbadges.com/fork.svg?user=Yaoshicn&repo=awesome-music-for-programming&style=flat&color=fff&background=1081C1)](http://github.com/Yaoshicn/awesome-music-for-programming/fork)
+#Awesome Music for Programming
+<iframe src="https://ghbtns.com/github-btn.html?user=yaoshicn&repo=awesome-music-for-programming&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=yaoshicn&repo=awesome-music-for-programming&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=yaoshicn&repo=awesome-music-for-programming&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
 
 ## Table of Contents
 
