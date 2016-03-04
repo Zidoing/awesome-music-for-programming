@@ -1,4 +1,4 @@
-#Awesome Music for Programming[![star this repo](http://githubbadges.com/star.svg?user=yaoshicn&repo=awesome-music-for-programming&style=flat)](https://github.com/yaoshicn/awesome-music-for-programming)[![fork this repo](http://githubbadges.com/fork.svg?user=yaoshicn&repo=awesome-music-for-programming&style=flat)](https://github.com/yaoshicn/awesome-music-for-programming/fork)
+#Awesome Music for Programming[![star this repo](http://githubbadges.com/star.svg?user=Yaoshicn&repo=awesome-music-for-programming&style=flat&color=fff&background=1081C1)](http://github.com/Yaoshicn/awesome-music-for-programming)[![fork this repo](http://githubbadges.com/fork.svg?user=Yaoshicn&repo=awesome-music-for-programming&style=flat&color=fff&background=1081C1)](http://github.com/Yaoshicn/awesome-music-for-programming/fork)
 
 ## Table of Contents
 
