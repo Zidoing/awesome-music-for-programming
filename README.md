@@ -31,6 +31,7 @@
 - [Eminem精选 - to 姆爷 by offmask](http://music.163.com/#/playlist?id=2451327)
 - [金属王者Metallica降临！必听曲！by 黑猫](http://music.163.com/#/playlist?id=2823205)
 - [♪自习时必备背景音乐™](http://music.163.com/#/playlist?id=323126054)
+- [美到窒息的纯音Jazz-hiphop](http://music.163.com/#/m/playlist?id=17705999)
 
 ## Xiami music playlists 虾米音乐歌单
 - [【精选】上耳机超带感！节奏控的那些抖腿燃曲 (╭￣3￣)╭♡](http://www.xiami.com/collect/102331350)
