@@ -35,6 +35,7 @@
 
 ## Xiami music playlists 虾米音乐歌单
 - [【精选】上耳机超带感！节奏控的那些抖腿燃曲 (╭￣3￣)╭♡](http://www.xiami.com/collect/102331350)
+- [StarCraft (Original Game Soundtrack)](http://www.xiami.com/album/369307)
 
 ## Background music website 背景音乐网站
 
