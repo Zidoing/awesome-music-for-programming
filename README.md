@@ -33,6 +33,7 @@
 - [♪自习时必备背景音乐™](http://music.163.com/#/playlist?id=323126054)
 - [美到窒息的纯音Jazz-hiphop](http://music.163.com/#/m/playlist?id=17705999)
 - [The Elder Scrolls V: Skyrim (The Original)（上古卷轴5游戏原声）by 风断琴音曲千哗](http://music.163.com/#/playlist?id=72020527)
+- [桶哥BUCKETHEAD柔情吉他精选集](http://music.163.com/#/playlist?id=103855351&userid=32065650&)
 
 ## Xiami music playlists 虾米音乐歌单
 - [【精选】上耳机超带感！节奏控的那些抖腿燃曲 (╭￣3￣)╭♡](http://www.xiami.com/collect/102331350)
